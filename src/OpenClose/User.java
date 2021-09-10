@@ -35,6 +35,4 @@ public class User {
         setAddress("Gandhi Colony");
         setContactNumber(12345);
     }
-
-
 }
