@@ -33,6 +33,6 @@ public class User {
         setUserId(1234);
         setName("Shubham Saini");
         setAddress("Gandhi Colony");
-        setContactNumber(12345);
+        setContactNumber(1585);
     }
 }
